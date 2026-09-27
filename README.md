@@ -22,7 +22,5 @@ This repository contains all tasks completed as part of my AI Internship at CodS
 
 ## Author
 - Internship by CodSoft
-- GitHub: [Your Name]
+- GitHub: [Om gupta]
 
-## Certificate
-This project is submitted for the completion of CodSoft AI Internship.
