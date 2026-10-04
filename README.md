@@ -24,3 +24,17 @@ This repository contains all tasks completed as part of my AI Internship at CodS
 - Internship by CodSoft
 - GitHub: [Om gupta]
 
+
+
+## Task 2: Tic-Tac-Toe AI
+
+**Objective:** Build an unbeatable Tic-Tac-Toe game using Minimax algorithm.
+
+Features:
+- AI never loses (Minimax)
+- Human vs AI gameplay
+- Checks winner and draw automatically
+
+File:`Task-2-Tic-Tac-Toe/tic_tac_toe.py`
+
+How to run: `python tic_tac_toe.py`
